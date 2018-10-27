@@ -5,7 +5,7 @@ Unit tests are also included in this repository.
 
 * [API Docs](http://puremvc.org/pages/docs/Perl/perldoc_mc)
 * [Discussion](http://forums.puremvc.org/index.php?board=92.0)
-* [Live Unit Test Runner](http://darkstar.puremvc.org/content_header.html?url=http://puremvc.org/pages/demos/Perl/unit_tests_mc/TestRunner.swf&desc=Unit%20Tests:%20PureMVC%20MultiCore%20for%20Perl)
+* [Live Unit Test Runner](http://puremvc.org/pages/demos/Perl/unit_tests_mc/TestRunner.swf)
 * [Overview Presentation](http://puremvc.tv/#P002)
 
 ## Status
